@@ -20,6 +20,7 @@ import {
 const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 
 
+
 const GEMINI_MODEL = 'gemini-2.5-flash-preview-09-2025';
 
 const App = () => {
